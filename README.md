@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManimaranGv
+- 👋 Hi, I’m @Manimaran Govindaraj
 - 👀 I’m interested in DS,ML,AI
 - 🌱 I’m currently learning BE
 - 💞️ I’m looking to collaborate on 
